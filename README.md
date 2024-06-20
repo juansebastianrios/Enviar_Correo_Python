@@ -9,8 +9,7 @@ Se debe configurar tu cuenta de Gmail
 Teniendo activada la verificación de dos pasos , se ingresa de nuevo en la opción y en la parte inferior aparece:
 1. Contraseña de aplicación
 2. Ingresa Nombre de la app y le da en el botón crear.
-Aparecerá una contraseña de aplicación para el dispositivo:
-xxxx xxxx xxxx xxxx
-Le llegara un correo confirmando la creación de una contraseña de la aplicación
+3. Aparecerá una contraseña de aplicación para el dispositivo:xxxx xxxx xxxx xxxx
+4. Le llegara un correo confirmando la creación de una contraseña de la aplicación
 
 La contraseña la copiamos y la pegamos en el archivo credenciales.py en PASSWORD = ""
