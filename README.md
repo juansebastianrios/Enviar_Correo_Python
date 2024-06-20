@@ -7,8 +7,8 @@ Se debe configurar tu cuenta de Gmail
 3. Activar Verificación de dos pasos
 
 Teniendo activada la verificación de dos pasos , se ingresa de nuevo en la opción y en la parte inferior aparece:
-Contraseña de aplicación
-Ingresa Nombre de la app y le da en el botón crear.
+1. Contraseña de aplicación
+2. Ingresa Nombre de la app y le da en el botón crear.
 Aparecerá una contraseña de aplicación para el dispositivo:
 xxxx xxxx xxxx xxxx
 Le llegara un correo confirmando la creación de una contraseña de la aplicación
